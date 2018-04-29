@@ -12,3 +12,9 @@ Spring Boot is designed to get you up and running as quickly as possible, with m
 
 ### Serving Web Content with Spring MVC
 [Web Page MVC](https://spring.io/guides/gs/serving-web-content/) guide walks you through the process of creating a "hello world" web site with Spring.
+
+### Building a RESTful Web Service
+[WebService](https://spring.io/guides/gs/rest-service/) guide walks you through the process of creating a "hello world" RESTful web service with Spring.
+
+### Consuming a RESTful Web Service
+[WebClient](https://spring.io/guides/gs/consuming-rest/) guide walks you through the process of creating an application that consumes a RESTful web service.
